@@ -1,197 +1,197 @@
-tag,departamento,provincia
-amazonas_bagua,AMAZONAS,BAGUA
-amazonas_bongara,AMAZONAS,BONGARA
-amazonas_chachapoyas,AMAZONAS,CHACHAPOYAS
-amazonas_condorcanqui,AMAZONAS,CONDORCANQUI
-amazonas_luya,AMAZONAS,LUYA
-amazonas_rodriguez_de_mendoza,AMAZONAS,RODRIGUEZ DE MENDOZA
-amazonas_utcubamba,AMAZONAS,UTCUBAMBA
-ancash_aija,ANCASH,AIJA
-ancash_antonio_raymondi,ANCASH,ANTONIO RAYMONDI
-ancash_asuncion,ANCASH,ASUNCION
-ancash_bolognesi,ANCASH,BOLOGNESI
-ancash_carhuaz,ANCASH,CARHUAZ
-ancash_carlos_fermin_fitzcarrald,ANCASH,CARLOS FERMIN FITZCARRALD
-ancash_casma,ANCASH,CASMA
-ancash_corongo,ANCASH,CORONGO
-ancash_huaraz,ANCASH,HUARAZ
-ancash_huari,ANCASH,HUARI
-ancash_huarmey,ANCASH,HUARMEY
-ancash_huaylas,ANCASH,HUAYLAS
-ancash_mariscal_luzuriaga,ANCASH,MARISCAL LUZURIAGA
-ancash_ocros,ANCASH,OCROS
-ancash_pallasca,ANCASH,PALLASCA
-ancash_pomabamba,ANCASH,POMABAMBA
-ancash_recuay,ANCASH,RECUAY
-ancash_santa,ANCASH,SANTA
-ancash_sihuas,ANCASH,SIHUAS
-ancash_yungay,ANCASH,YUNGAY
-apurimac_abancay,APURIMAC,ABANCAY
-apurimac_andahuaylas,APURIMAC,ANDAHUAYLAS
-apurimac_antabamba,APURIMAC,ANTABAMBA
-apurimac_aymaraes,APURIMAC,AYMARAES
-apurimac_chincheros,APURIMAC,CHINCHEROS
-apurimac_cotabambas,APURIMAC,COTABAMBAS
-apurimac_grau,APURIMAC,GRAU
-arequipa_arequipa,AREQUIPA,AREQUIPA
-arequipa_camana,AREQUIPA,CAMANA
-arequipa_caraveli,AREQUIPA,CARAVELI
-arequipa_castilla,AREQUIPA,CASTILLA
-arequipa_caylloma,AREQUIPA,CAYLLOMA
-arequipa_condesuyos,AREQUIPA,CONDESUYOS
-arequipa_islay,AREQUIPA,ISLAY
-arequipa_la_union,AREQUIPA,LA UNION
-ayacucho_cangallo,AYACUCHO,CANGALLO
-ayacucho_huamanga,AYACUCHO,HUAMANGA
-ayacucho_huanca_sancos,AYACUCHO,HUANCA SANCOS
-ayacucho_huanta,AYACUCHO,HUANTA
-ayacucho_la_mar,AYACUCHO,LA MAR
-ayacucho_lucanas,AYACUCHO,LUCANAS
-ayacucho_parinacochas,AYACUCHO,PARINACOCHAS
-ayacucho_paucar_del_sara_sara,AYACUCHO,PAUCAR DEL SARA SARA
-ayacucho_sucre,AYACUCHO,SUCRE
-ayacucho_victor_fajardo,AYACUCHO,VICTOR FAJARDO
-ayacucho_vilcas_huaman,AYACUCHO,VILCAS HUAMAN
-cajamarca_cajabamba,CAJAMARCA,CAJABAMBA
-cajamarca_cajamarca,CAJAMARCA,CAJAMARCA
-cajamarca_celendin,CAJAMARCA,CELENDIN
-cajamarca_chota,CAJAMARCA,CHOTA
-cajamarca_contumaza,CAJAMARCA,CONTUMAZA
-cajamarca_cutervo,CAJAMARCA,CUTERVO
-cajamarca_hualgayoc,CAJAMARCA,HUALGAYOC
-cajamarca_jaen,CAJAMARCA,JAEN
-cajamarca_san_ignacio,CAJAMARCA,SAN IGNACIO
-cajamarca_san_marcos,CAJAMARCA,SAN MARCOS
-cajamarca_san_miguel,CAJAMARCA,SAN MIGUEL
-cajamarca_san_pablo,CAJAMARCA,SAN PABLO
-cajamarca_santa_cruz,CAJAMARCA,SANTA CRUZ
-callao_callao,CALLAO,CALLAO
-cusco_acomayo,CUSCO,ACOMAYO
-cusco_anta,CUSCO,ANTA
-cusco_calca,CUSCO,CALCA
-cusco_canas,CUSCO,CANAS
-cusco_canchis,CUSCO,CANCHIS
-cusco_chumbivilcas,CUSCO,CHUMBIVILCAS
-cusco_cusco,CUSCO,CUSCO
-cusco_espinar,CUSCO,ESPINAR
-cusco_la_convencion,CUSCO,LA CONVENCION
-cusco_paruro,CUSCO,PARURO
-cusco_paucartambo,CUSCO,PAUCARTAMBO
-cusco_quispicanchi,CUSCO,QUISPICANCHI
-cusco_urubamba,CUSCO,URUBAMBA
-huancavelica_acobamba,HUANCAVELICA,ACOBAMBA
-huancavelica_angaraes,HUANCAVELICA,ANGARAES
-huancavelica_castrovirreyna,HUANCAVELICA,CASTROVIRREYNA
-huancavelica_churcampa,HUANCAVELICA,CHURCAMPA
-huancavelica_huancavelica,HUANCAVELICA,HUANCAVELICA
-huancavelica_huaytara,HUANCAVELICA,HUAYTARA
-huancavelica_tayacaja,HUANCAVELICA,TAYACAJA
-huanuco_ambo,HUANUCO,AMBO
-huanuco_dos_de_mayo,HUANUCO,DOS DE MAYO
-huanuco_huacaybamba,HUANUCO,HUACAYBAMBA
-huanuco_huamalies,HUANUCO,HUAMALIES
-huanuco_huanuco,HUANUCO,HUANUCO
-huanuco_lauricocha,HUANUCO,LAURICOCHA
-huanuco_leoncio_prado,HUANUCO,LEONCIO PRADO
-huanuco_marañon,HUANUCO,MARAÑON
-huanuco_pachitea,HUANUCO,PACHITEA
-huanuco_puerto_inca,HUANUCO,PUERTO INCA
-huanuco_yarowilca,HUANUCO,YAROWILCA
-ica_chincha,ICA,CHINCHA
-ica_ica,ICA,ICA
-ica_nasca,ICA,NASCA
-ica_palpa,ICA,PALPA
-ica_pisco,ICA,PISCO
-junin_chanchamayo,JUNIN,CHANCHAMAYO
-junin_chupaca,JUNIN,CHUPACA
-junin_concepcion,JUNIN,CONCEPCION
-junin_huancayo,JUNIN,HUANCAYO
-junin_jauja,JUNIN,JAUJA
-junin_junin,JUNIN,JUNIN
-junin_satipo,JUNIN,SATIPO
-junin_tarma,JUNIN,TARMA
-junin_yauli,JUNIN,YAULI
-la_libertad_ascope,LA LIBERTAD,ASCOPE
-la_libertad_bolivar,LA LIBERTAD,BOLIVAR
-la_libertad_chepen,LA LIBERTAD,CHEPEN
-la_libertad_gran_chimu,LA LIBERTAD,GRAN CHIMU
-la_libertad_julcan,LA LIBERTAD,JULCAN
-la_libertad_otuzco,LA LIBERTAD,OTUZCO
-la_libertad_pacasmayo,LA LIBERTAD,PACASMAYO
-la_libertad_pataz,LA LIBERTAD,PATAZ
-la_libertad_sanchez_carrion,LA LIBERTAD,SANCHEZ CARRION
-la_libertad_santiago_de_chuco,LA LIBERTAD,SANTIAGO DE CHUCO
-la_libertad_trujillo,LA LIBERTAD,TRUJILLO
-la_libertad_viru,LA LIBERTAD,VIRU
-lambayeque_chiclayo,LAMBAYEQUE,CHICLAYO
-lambayeque_ferreñafe,LAMBAYEQUE,FERREÑAFE
-lambayeque_lambayeque,LAMBAYEQUE,LAMBAYEQUE
-lima_barranca,LIMA,BARRANCA
-lima_cajatambo,LIMA,CAJATAMBO
-lima_canta,LIMA,CANTA
-lima_cañete,LIMA,CAÑETE
-lima_huaral,LIMA,HUARAL
-lima_huarochiri,LIMA,HUAROCHIRI
-lima_huaura,LIMA,HUAURA
-lima_lima,LIMA,LIMA
-lima_oyon,LIMA,OYON
-lima_yauyos,LIMA,YAUYOS
-loreto_alto_amazonas,LORETO,ALTO AMAZONAS
-loreto_datem_del_marañon,LORETO,DATEM DEL MARAÑON
-loreto_loreto,LORETO,LORETO
-loreto_mariscal_ramon_castilla,LORETO,MARISCAL RAMON CASTILLA
-loreto_maynas,LORETO,MAYNAS
-loreto_putumayo,LORETO,PUTUMAYO
-loreto_requena,LORETO,REQUENA
-loreto_ucayali,LORETO,UCAYALI
-madre_de_dios_manu,MADRE DE DIOS,MANU
-madre_de_dios_tahuamanu,MADRE DE DIOS,TAHUAMANU
-madre_de_dios_tambopata,MADRE DE DIOS,TAMBOPATA
-moquegua_general_sanchez_cerro,MOQUEGUA,GENERAL SANCHEZ CERRO
-moquegua_ilo,MOQUEGUA,ILO
-moquegua_mariscal_nieto,MOQUEGUA,MARISCAL NIETO
-pasco_daniel_alcides_carrion,PASCO,DANIEL ALCIDES CARRION
-pasco_oxapampa,PASCO,OXAPAMPA
-pasco_pasco,PASCO,PASCO
-piura_ayabaca,PIURA,AYABACA
-piura_huancabamba,PIURA,HUANCABAMBA
-piura_morropon,PIURA,MORROPON
-piura_paita,PIURA,PAITA
-piura_piura,PIURA,PIURA
-piura_sechura,PIURA,SECHURA
-piura_sullana,PIURA,SULLANA
-piura_talara,PIURA,TALARA
-puno_azangaro,PUNO,AZANGARO
-puno_carabaya,PUNO,CARABAYA
-puno_chucuito,PUNO,CHUCUITO
-puno_el_collao,PUNO,EL COLLAO
-puno_huancane,PUNO,HUANCANE
-puno_lampa,PUNO,LAMPA
-puno_melgar,PUNO,MELGAR
-puno_moho,PUNO,MOHO
-puno_puno,PUNO,PUNO
-puno_san_antonio_de_putina,PUNO,SAN ANTONIO DE PUTINA
-puno_san_roman,PUNO,SAN ROMAN
-puno_sandia,PUNO,SANDIA
-puno_yunguyo,PUNO,YUNGUYO
-san_martin_bellavista,SAN MARTIN,BELLAVISTA
-san_martin_el_dorado,SAN MARTIN,EL DORADO
-san_martin_huallaga,SAN MARTIN,HUALLAGA
-san_martin_lamas,SAN MARTIN,LAMAS
-san_martin_mariscal_caceres,SAN MARTIN,MARISCAL CACERES
-san_martin_moyobamba,SAN MARTIN,MOYOBAMBA
-san_martin_picota,SAN MARTIN,PICOTA
-san_martin_rioja,SAN MARTIN,RIOJA
-san_martin_san_martin,SAN MARTIN,SAN MARTIN
-san_martin_tocache,SAN MARTIN,TOCACHE
-tacna_candarave,TACNA,CANDARAVE
-tacna_jorge_basadre,TACNA,JORGE BASADRE
-tacna_tacna,TACNA,TACNA
-tacna_tarata,TACNA,TARATA
-tumbes_contralmirante_villar,TUMBES,CONTRALMIRANTE VILLAR
-tumbes_tumbes,TUMBES,TUMBES
-tumbes_zarumilla,TUMBES,ZARUMILLA
-ucayali_atalaya,UCAYALI,ATALAYA
-ucayali_coronel_portillo,UCAYALI,CORONEL PORTILLO
-ucayali_padre_abad,UCAYALI,PADRE ABAD
-ucayali_purus,UCAYALI,PURUS
+tag,departamento,provincia,filename
+amazonas_bagua,AMAZONAS,BAGUA,amazonas_bagua.gpkg
+amazonas_bongara,AMAZONAS,BONGARA,amazonas_bongara.gpkg
+amazonas_chachapoyas,AMAZONAS,CHACHAPOYAS,amazonas_chachapoyas.gpkg
+amazonas_condorcanqui,AMAZONAS,CONDORCANQUI,amazonas_condorcanqui.gpkg
+amazonas_luya,AMAZONAS,LUYA,amazonas_luya.gpkg
+amazonas_rodriguez_de_mendoza,AMAZONAS,RODRIGUEZ DE MENDOZA,amazonas_rodriguez_de_mendoza.gpkg
+amazonas_utcubamba,AMAZONAS,UTCUBAMBA,amazonas_utcubamba.gpkg
+ancash_aija,ANCASH,AIJA,ancash_aija.gpkg
+ancash_antonio_raymondi,ANCASH,ANTONIO RAYMONDI,ancash_antonio_raymondi.gpkg
+ancash_asuncion,ANCASH,ASUNCION,ancash_asuncion.gpkg
+ancash_bolognesi,ANCASH,BOLOGNESI,ancash_bolognesi.gpkg
+ancash_carhuaz,ANCASH,CARHUAZ,ancash_carhuaz.gpkg
+ancash_carlos_fermin_fitzcarrald,ANCASH,CARLOS FERMIN FITZCARRALD,ancash_carlos_fermin_fitzcarrald.gpkg
+ancash_casma,ANCASH,CASMA,ancash_casma.gpkg
+ancash_corongo,ANCASH,CORONGO,ancash_corongo.gpkg
+ancash_huaraz,ANCASH,HUARAZ,ancash_huaraz.gpkg
+ancash_huari,ANCASH,HUARI,ancash_huari.gpkg
+ancash_huarmey,ANCASH,HUARMEY,ancash_huarmey.gpkg
+ancash_huaylas,ANCASH,HUAYLAS,ancash_huaylas.gpkg
+ancash_mariscal_luzuriaga,ANCASH,MARISCAL LUZURIAGA,ancash_mariscal_luzuriaga.gpkg
+ancash_ocros,ANCASH,OCROS,ancash_ocros.gpkg
+ancash_pallasca,ANCASH,PALLASCA,ancash_pallasca.gpkg
+ancash_pomabamba,ANCASH,POMABAMBA,ancash_pomabamba.gpkg
+ancash_recuay,ANCASH,RECUAY,ancash_recuay.gpkg
+ancash_santa,ANCASH,SANTA,ancash_santa.gpkg
+ancash_sihuas,ANCASH,SIHUAS,ancash_sihuas.gpkg
+ancash_yungay,ANCASH,YUNGAY,ancash_yungay.gpkg
+apurimac_abancay,APURIMAC,ABANCAY,apurimac_abancay.gpkg
+apurimac_andahuaylas,APURIMAC,ANDAHUAYLAS,apurimac_andahuaylas.gpkg
+apurimac_antabamba,APURIMAC,ANTABAMBA,apurimac_antabamba.gpkg
+apurimac_aymaraes,APURIMAC,AYMARAES,apurimac_aymaraes.gpkg
+apurimac_chincheros,APURIMAC,CHINCHEROS,apurimac_chincheros.gpkg
+apurimac_cotabambas,APURIMAC,COTABAMBAS,apurimac_cotabambas.gpkg
+apurimac_grau,APURIMAC,GRAU,apurimac_grau.gpkg
+arequipa_arequipa,AREQUIPA,AREQUIPA,arequipa_arequipa.gpkg
+arequipa_camana,AREQUIPA,CAMANA,arequipa_camana.gpkg
+arequipa_caraveli,AREQUIPA,CARAVELI,arequipa_caraveli.gpkg
+arequipa_castilla,AREQUIPA,CASTILLA,arequipa_castilla.gpkg
+arequipa_caylloma,AREQUIPA,CAYLLOMA,arequipa_caylloma.gpkg
+arequipa_condesuyos,AREQUIPA,CONDESUYOS,arequipa_condesuyos.gpkg
+arequipa_islay,AREQUIPA,ISLAY,arequipa_islay.gpkg
+arequipa_la_union,AREQUIPA,LA UNION,arequipa_la_union.gpkg
+ayacucho_cangallo,AYACUCHO,CANGALLO,ayacucho_cangallo.gpkg
+ayacucho_huamanga,AYACUCHO,HUAMANGA,ayacucho_huamanga.gpkg
+ayacucho_huanca_sancos,AYACUCHO,HUANCA SANCOS,ayacucho_huanca_sancos.gpkg
+ayacucho_huanta,AYACUCHO,HUANTA,ayacucho_huanta.gpkg
+ayacucho_la_mar,AYACUCHO,LA MAR,ayacucho_la_mar.gpkg
+ayacucho_lucanas,AYACUCHO,LUCANAS,ayacucho_lucanas.gpkg
+ayacucho_parinacochas,AYACUCHO,PARINACOCHAS,ayacucho_parinacochas.gpkg
+ayacucho_paucar_del_sara_sara,AYACUCHO,PAUCAR DEL SARA SARA,ayacucho_paucar_del_sara_sara.gpkg
+ayacucho_sucre,AYACUCHO,SUCRE,ayacucho_sucre.gpkg
+ayacucho_victor_fajardo,AYACUCHO,VICTOR FAJARDO,ayacucho_victor_fajardo.gpkg
+ayacucho_vilcas_huaman,AYACUCHO,VILCAS HUAMAN,ayacucho_vilcas_huaman.gpkg
+cajamarca_cajabamba,CAJAMARCA,CAJABAMBA,cajamarca_cajabamba.gpkg
+cajamarca_cajamarca,CAJAMARCA,CAJAMARCA,cajamarca_cajamarca.gpkg
+cajamarca_celendin,CAJAMARCA,CELENDIN,cajamarca_celendin.gpkg
+cajamarca_chota,CAJAMARCA,CHOTA,cajamarca_chota.gpkg
+cajamarca_contumaza,CAJAMARCA,CONTUMAZA,cajamarca_contumaza.gpkg
+cajamarca_cutervo,CAJAMARCA,CUTERVO,cajamarca_cutervo.gpkg
+cajamarca_hualgayoc,CAJAMARCA,HUALGAYOC,cajamarca_hualgayoc.gpkg
+cajamarca_jaen,CAJAMARCA,JAEN,cajamarca_jaen.gpkg
+cajamarca_san_ignacio,CAJAMARCA,SAN IGNACIO,cajamarca_san_ignacio.gpkg
+cajamarca_san_marcos,CAJAMARCA,SAN MARCOS,cajamarca_san_marcos.gpkg
+cajamarca_san_miguel,CAJAMARCA,SAN MIGUEL,cajamarca_san_miguel.gpkg
+cajamarca_san_pablo,CAJAMARCA,SAN PABLO,cajamarca_san_pablo.gpkg
+cajamarca_santa_cruz,CAJAMARCA,SANTA CRUZ,cajamarca_santa_cruz.gpkg
+callao_callao,CALLAO,CALLAO,callao_callao.gpkg
+cusco_acomayo,CUSCO,ACOMAYO,cusco_acomayo.gpkg
+cusco_anta,CUSCO,ANTA,cusco_anta.gpkg
+cusco_calca,CUSCO,CALCA,cusco_calca.gpkg
+cusco_canas,CUSCO,CANAS,cusco_canas.gpkg
+cusco_canchis,CUSCO,CANCHIS,cusco_canchis.gpkg
+cusco_chumbivilcas,CUSCO,CHUMBIVILCAS,cusco_chumbivilcas.gpkg
+cusco_cusco,CUSCO,CUSCO,cusco_cusco.gpkg
+cusco_espinar,CUSCO,ESPINAR,cusco_espinar.gpkg
+cusco_la_convencion,CUSCO,LA CONVENCION,cusco_la_convencion.gpkg
+cusco_paruro,CUSCO,PARURO,cusco_paruro.gpkg
+cusco_paucartambo,CUSCO,PAUCARTAMBO,cusco_paucartambo.gpkg
+cusco_quispicanchi,CUSCO,QUISPICANCHI,cusco_quispicanchi.gpkg
+cusco_urubamba,CUSCO,URUBAMBA,cusco_urubamba.gpkg
+huancavelica_acobamba,HUANCAVELICA,ACOBAMBA,huancavelica_acobamba.gpkg
+huancavelica_angaraes,HUANCAVELICA,ANGARAES,huancavelica_angaraes.gpkg
+huancavelica_castrovirreyna,HUANCAVELICA,CASTROVIRREYNA,huancavelica_castrovirreyna.gpkg
+huancavelica_churcampa,HUANCAVELICA,CHURCAMPA,huancavelica_churcampa.gpkg
+huancavelica_huancavelica,HUANCAVELICA,HUANCAVELICA,huancavelica_huancavelica.gpkg
+huancavelica_huaytara,HUANCAVELICA,HUAYTARA,huancavelica_huaytara.gpkg
+huancavelica_tayacaja,HUANCAVELICA,TAYACAJA,huancavelica_tayacaja.gpkg
+huanuco_ambo,HUANUCO,AMBO,huanuco_ambo.gpkg
+huanuco_dos_de_mayo,HUANUCO,DOS DE MAYO,huanuco_dos_de_mayo.gpkg
+huanuco_huacaybamba,HUANUCO,HUACAYBAMBA,huanuco_huacaybamba.gpkg
+huanuco_huamalies,HUANUCO,HUAMALIES,huanuco_huamalies.gpkg
+huanuco_huanuco,HUANUCO,HUANUCO,huanuco_huanuco.gpkg
+huanuco_lauricocha,HUANUCO,LAURICOCHA,huanuco_lauricocha.gpkg
+huanuco_leoncio_prado,HUANUCO,LEONCIO PRADO,huanuco_leoncio_prado.gpkg
+huanuco_marañon,HUANUCO,MARAÑON,huanuco_marañon.gpkg
+huanuco_pachitea,HUANUCO,PACHITEA,huanuco_pachitea.gpkg
+huanuco_puerto_inca,HUANUCO,PUERTO INCA,huanuco_puerto_inca.gpkg
+huanuco_yarowilca,HUANUCO,YAROWILCA,huanuco_yarowilca.gpkg
+ica_chincha,ICA,CHINCHA,ica_chincha.gpkg
+ica_ica,ICA,ICA,ica_ica.gpkg
+ica_nasca,ICA,NASCA,ica_nasca.gpkg
+ica_palpa,ICA,PALPA,ica_palpa.gpkg
+ica_pisco,ICA,PISCO,ica_pisco.gpkg
+junin_chanchamayo,JUNIN,CHANCHAMAYO,junin_chanchamayo.gpkg
+junin_chupaca,JUNIN,CHUPACA,junin_chupaca.gpkg
+junin_concepcion,JUNIN,CONCEPCION,junin_concepcion.gpkg
+junin_huancayo,JUNIN,HUANCAYO,junin_huancayo.gpkg
+junin_jauja,JUNIN,JAUJA,junin_jauja.gpkg
+junin_junin,JUNIN,JUNIN,junin_junin.gpkg
+junin_satipo,JUNIN,SATIPO,junin_satipo.gpkg
+junin_tarma,JUNIN,TARMA,junin_tarma.gpkg
+junin_yauli,JUNIN,YAULI,junin_yauli.gpkg
+la_libertad_ascope,LA LIBERTAD,ASCOPE,la_libertad_ascope.gpkg
+la_libertad_bolivar,LA LIBERTAD,BOLIVAR,la_libertad_bolivar.gpkg
+la_libertad_chepen,LA LIBERTAD,CHEPEN,la_libertad_chepen.gpkg
+la_libertad_gran_chimu,LA LIBERTAD,GRAN CHIMU,la_libertad_gran_chimu.gpkg
+la_libertad_julcan,LA LIBERTAD,JULCAN,la_libertad_julcan.gpkg
+la_libertad_otuzco,LA LIBERTAD,OTUZCO,la_libertad_otuzco.gpkg
+la_libertad_pacasmayo,LA LIBERTAD,PACASMAYO,la_libertad_pacasmayo.gpkg
+la_libertad_pataz,LA LIBERTAD,PATAZ,la_libertad_pataz.gpkg
+la_libertad_sanchez_carrion,LA LIBERTAD,SANCHEZ CARRION,la_libertad_sanchez_carrion.gpkg
+la_libertad_santiago_de_chuco,LA LIBERTAD,SANTIAGO DE CHUCO,la_libertad_santiago_de_chuco.gpkg
+la_libertad_trujillo,LA LIBERTAD,TRUJILLO,la_libertad_trujillo.gpkg
+la_libertad_viru,LA LIBERTAD,VIRU,la_libertad_viru.gpkg
+lambayeque_chiclayo,LAMBAYEQUE,CHICLAYO,lambayeque_chiclayo.gpkg
+lambayeque_ferreñafe,LAMBAYEQUE,FERREÑAFE,lambayeque_ferreñafe.gpkg
+lambayeque_lambayeque,LAMBAYEQUE,LAMBAYEQUE,lambayeque_lambayeque.gpkg
+lima_barranca,LIMA,BARRANCA,lima_barranca.gpkg
+lima_cajatambo,LIMA,CAJATAMBO,lima_cajatambo.gpkg
+lima_canta,LIMA,CANTA,lima_canta.gpkg
+lima_cañete,LIMA,CAÑETE,lima_cañete.gpkg
+lima_huaral,LIMA,HUARAL,lima_huaral.gpkg
+lima_huarochiri,LIMA,HUAROCHIRI,lima_huarochiri.gpkg
+lima_huaura,LIMA,HUAURA,lima_huaura.gpkg
+lima_lima,LIMA,LIMA,lima_lima.gpkg
+lima_oyon,LIMA,OYON,lima_oyon.gpkg
+lima_yauyos,LIMA,YAUYOS,lima_yauyos.gpkg
+loreto_alto_amazonas,LORETO,ALTO AMAZONAS,loreto_alto_amazonas.gpkg
+loreto_datem_del_marañon,LORETO,DATEM DEL MARAÑON,loreto_datem_del_marañon.gpkg
+loreto_loreto,LORETO,LORETO,loreto_loreto.gpkg
+loreto_mariscal_ramon_castilla,LORETO,MARISCAL RAMON CASTILLA,loreto_mariscal_ramon_castilla.gpkg
+loreto_maynas,LORETO,MAYNAS,loreto_maynas.gpkg
+loreto_putumayo,LORETO,PUTUMAYO,loreto_putumayo.gpkg
+loreto_requena,LORETO,REQUENA,loreto_requena.gpkg
+loreto_ucayali,LORETO,UCAYALI,loreto_ucayali.gpkg
+madre_de_dios_manu,MADRE DE DIOS,MANU,madre_de_dios_manu.gpkg
+madre_de_dios_tahuamanu,MADRE DE DIOS,TAHUAMANU,madre_de_dios_tahuamanu.gpkg
+madre_de_dios_tambopata,MADRE DE DIOS,TAMBOPATA,madre_de_dios_tambopata.gpkg
+moquegua_general_sanchez_cerro,MOQUEGUA,GENERAL SANCHEZ CERRO,moquegua_general_sanchez_cerro.gpkg
+moquegua_ilo,MOQUEGUA,ILO,moquegua_ilo.gpkg
+moquegua_mariscal_nieto,MOQUEGUA,MARISCAL NIETO,moquegua_mariscal_nieto.gpkg
+pasco_daniel_alcides_carrion,PASCO,DANIEL ALCIDES CARRION,pasco_daniel_alcides_carrion.gpkg
+pasco_oxapampa,PASCO,OXAPAMPA,pasco_oxapampa.gpkg
+pasco_pasco,PASCO,PASCO,pasco_pasco.gpkg
+piura_ayabaca,PIURA,AYABACA,piura_ayabaca.gpkg
+piura_huancabamba,PIURA,HUANCABAMBA,piura_huancabamba.gpkg
+piura_morropon,PIURA,MORROPON,piura_morropon.gpkg
+piura_paita,PIURA,PAITA,piura_paita.gpkg
+piura_piura,PIURA,PIURA,piura_piura.gpkg
+piura_sechura,PIURA,SECHURA,piura_sechura.gpkg
+piura_sullana,PIURA,SULLANA,piura_sullana.gpkg
+piura_talara,PIURA,TALARA,piura_talara.gpkg
+puno_azangaro,PUNO,AZANGARO,puno_azangaro.gpkg
+puno_carabaya,PUNO,CARABAYA,puno_carabaya.gpkg
+puno_chucuito,PUNO,CHUCUITO,puno_chucuito.gpkg
+puno_el_collao,PUNO,EL COLLAO,puno_el_collao.gpkg
+puno_huancane,PUNO,HUANCANE,puno_huancane.gpkg
+puno_lampa,PUNO,LAMPA,puno_lampa.gpkg
+puno_melgar,PUNO,MELGAR,puno_melgar.gpkg
+puno_moho,PUNO,MOHO,puno_moho.gpkg
+puno_puno,PUNO,PUNO,puno_puno.gpkg
+puno_san_antonio_de_putina,PUNO,SAN ANTONIO DE PUTINA,puno_san_antonio_de_putina.gpkg
+puno_san_roman,PUNO,SAN ROMAN,puno_san_roman.gpkg
+puno_sandia,PUNO,SANDIA,puno_sandia.gpkg
+puno_yunguyo,PUNO,YUNGUYO,puno_yunguyo.gpkg
+san_martin_bellavista,SAN MARTIN,BELLAVISTA,san_martin_bellavista.gpkg
+san_martin_el_dorado,SAN MARTIN,EL DORADO,san_martin_el_dorado.gpkg
+san_martin_huallaga,SAN MARTIN,HUALLAGA,san_martin_huallaga.gpkg
+san_martin_lamas,SAN MARTIN,LAMAS,san_martin_lamas.gpkg
+san_martin_mariscal_caceres,SAN MARTIN,MARISCAL CACERES,san_martin_mariscal_caceres.gpkg
+san_martin_moyobamba,SAN MARTIN,MOYOBAMBA,san_martin_moyobamba.gpkg
+san_martin_picota,SAN MARTIN,PICOTA,san_martin_picota.gpkg
+san_martin_rioja,SAN MARTIN,RIOJA,san_martin_rioja.gpkg
+san_martin_san_martin,SAN MARTIN,SAN MARTIN,san_martin_san_martin.gpkg
+san_martin_tocache,SAN MARTIN,TOCACHE,san_martin_tocache.gpkg
+tacna_candarave,TACNA,CANDARAVE,tacna_candarave.gpkg
+tacna_jorge_basadre,TACNA,JORGE BASADRE,tacna_jorge_basadre.gpkg
+tacna_tacna,TACNA,TACNA,tacna_tacna.gpkg
+tacna_tarata,TACNA,TARATA,tacna_tarata.gpkg
+tumbes_contralmirante_villar,TUMBES,CONTRALMIRANTE VILLAR,tumbes_contralmirante_villar.gpkg
+tumbes_tumbes,TUMBES,TUMBES,tumbes_tumbes.gpkg
+tumbes_zarumilla,TUMBES,ZARUMILLA,tumbes_zarumilla.gpkg
+ucayali_atalaya,UCAYALI,ATALAYA,ucayali_atalaya.gpkg
+ucayali_coronel_portillo,UCAYALI,CORONEL PORTILLO,ucayali_coronel_portillo.gpkg
+ucayali_padre_abad,UCAYALI,PADRE ABAD,ucayali_padre_abad.gpkg
+ucayali_purus,UCAYALI,PURUS,ucayali_purus.gpkg
