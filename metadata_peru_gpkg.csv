@@ -1,0 +1,445 @@
+layer,dep_name,prov_name,type,download_path
+AMAZONAS,AMAZONAS,nill,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/amazonas.gpkg
+AMAZONAS,AMAZONAS,nill,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/amazonas_simplified.gpkg
+ANCASH,ANCASH,nill,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/ancash.gpkg
+ANCASH,ANCASH,nill,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/ancash_simplified.gpkg
+APURIMAC,APURIMAC,nill,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/apurimac.gpkg
+APURIMAC,APURIMAC,nill,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/apurimac_simplified.gpkg
+AREQUIPA,AREQUIPA,nill,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/arequipa.gpkg
+AREQUIPA,AREQUIPA,nill,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/arequipa_simplified.gpkg
+AYACUCHO,AYACUCHO,nill,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/ayacucho.gpkg
+AYACUCHO,AYACUCHO,nill,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/ayacucho_simplified.gpkg
+CAJAMARCA,CAJAMARCA,nill,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/cajamarca.gpkg
+CAJAMARCA,CAJAMARCA,nill,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/cajamarca_simplified.gpkg
+CALLAO,CALLAO,nill,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/callao.gpkg
+CALLAO,CALLAO,nill,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/callao_simplified.gpkg
+CUSCO,CUSCO,nill,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/cusco.gpkg
+CUSCO,CUSCO,nill,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/cusco_simplified.gpkg
+HUANCAVELICA,HUANCAVELICA,nill,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/huancavelica.gpkg
+HUANCAVELICA,HUANCAVELICA,nill,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/huancavelica_simplified.gpkg
+HUANUCO,HUANUCO,nill,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/huanuco.gpkg
+HUANUCO,HUANUCO,nill,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/huanuco_simplified.gpkg
+ICA,ICA,nill,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/ica.gpkg
+ICA,ICA,nill,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/ica_simplified.gpkg
+JUNIN,JUNIN,nill,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/junin.gpkg
+JUNIN,JUNIN,nill,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/junin_simplified.gpkg
+LA LIBERTAD,LA LIBERTAD,nill,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/la_libertad.gpkg
+LA LIBERTAD,LA LIBERTAD,nill,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/la_libertad_simplified.gpkg
+LAMBAYEQUE,LAMBAYEQUE,nill,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/lambayeque.gpkg
+LAMBAYEQUE,LAMBAYEQUE,nill,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/lambayeque_simplified.gpkg
+LIMA,LIMA,nill,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/lima.gpkg
+LIMA,LIMA,nill,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/lima_simplified.gpkg
+LORETO,LORETO,nill,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/loreto.gpkg
+LORETO,LORETO,nill,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/loreto_simplified.gpkg
+MADRE DE DIOS,MADRE DE DIOS,nill,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/madre_de_dios.gpkg
+MADRE DE DIOS,MADRE DE DIOS,nill,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/madre_de_dios_simplified.gpkg
+MOQUEGUA,MOQUEGUA,nill,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/moquegua.gpkg
+MOQUEGUA,MOQUEGUA,nill,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/moquegua_simplified.gpkg
+PASCO,PASCO,nill,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/pasco.gpkg
+PASCO,PASCO,nill,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/pasco_simplified.gpkg
+PIURA,PIURA,nill,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/piura.gpkg
+PIURA,PIURA,nill,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/piura_simplified.gpkg
+PUNO,PUNO,nill,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/puno.gpkg
+PUNO,PUNO,nill,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/puno_simplified.gpkg
+SAN MARTIN,SAN MARTIN,nill,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/san_martin.gpkg
+SAN MARTIN,SAN MARTIN,nill,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/san_martin_simplified.gpkg
+TACNA,TACNA,nill,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/tacna.gpkg
+TACNA,TACNA,nill,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/tacna_simplified.gpkg
+TUMBES,TUMBES,nill,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/tumbes.gpkg
+TUMBES,TUMBES,nill,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/tumbes_simplified.gpkg
+UCAYALI,UCAYALI,nill,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/ucayali.gpkg
+UCAYALI,UCAYALI,nill,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/dep/ucayali_simplified.gpkg
+AMAZONAS,AMAZONAS,BAGUA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/amazonas_bagua.gpkg
+AMAZONAS,AMAZONAS,BAGUA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/amazonas_bagua_simplified.gpkg
+AMAZONAS,AMAZONAS,BONGARA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/amazonas_bongara.gpkg
+AMAZONAS,AMAZONAS,BONGARA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/amazonas_bongara_simplified.gpkg
+AMAZONAS,AMAZONAS,CHACHAPOYAS,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/amazonas_chachapoyas.gpkg
+AMAZONAS,AMAZONAS,CHACHAPOYAS,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/amazonas_chachapoyas_simplified.gpkg
+AMAZONAS,AMAZONAS,CONDORCANQUI,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/amazonas_condorcanqui.gpkg
+AMAZONAS,AMAZONAS,CONDORCANQUI,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/amazonas_condorcanqui_simplified.gpkg
+AMAZONAS,AMAZONAS,LUYA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/amazonas_luya.gpkg
+AMAZONAS,AMAZONAS,LUYA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/amazonas_luya_simplified.gpkg
+AMAZONAS,AMAZONAS,RODRIGUEZ DE MENDOZA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/amazonas_rodriguez_de_mendoza.gpkg
+AMAZONAS,AMAZONAS,RODRIGUEZ DE MENDOZA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/amazonas_rodriguez_de_mendoza_simplified.gpkg
+AMAZONAS,AMAZONAS,UTCUBAMBA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/amazonas_utcubamba.gpkg
+AMAZONAS,AMAZONAS,UTCUBAMBA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/amazonas_utcubamba_simplified.gpkg
+ANCASH,ANCASH,AIJA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_aija.gpkg
+ANCASH,ANCASH,AIJA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_aija_simplified.gpkg
+ANCASH,ANCASH,ANTONIO RAYMONDI,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_antonio_raymondi.gpkg
+ANCASH,ANCASH,ANTONIO RAYMONDI,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_antonio_raymondi_simplified.gpkg
+ANCASH,ANCASH,ASUNCION,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_asuncion.gpkg
+ANCASH,ANCASH,ASUNCION,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_asuncion_simplified.gpkg
+ANCASH,ANCASH,BOLOGNESI,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_bolognesi.gpkg
+ANCASH,ANCASH,BOLOGNESI,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_bolognesi_simplified.gpkg
+ANCASH,ANCASH,CARHUAZ,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_carhuaz.gpkg
+ANCASH,ANCASH,CARHUAZ,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_carhuaz_simplified.gpkg
+ANCASH,ANCASH,CARLOS FERMIN FITZCARRALD,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_carlos_fermin_fitzcarrald.gpkg
+ANCASH,ANCASH,CARLOS FERMIN FITZCARRALD,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_carlos_fermin_fitzcarrald_simplified.gpkg
+ANCASH,ANCASH,CASMA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_casma.gpkg
+ANCASH,ANCASH,CASMA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_casma_simplified.gpkg
+ANCASH,ANCASH,CORONGO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_corongo.gpkg
+ANCASH,ANCASH,CORONGO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_corongo_simplified.gpkg
+ANCASH,ANCASH,HUARAZ,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_huaraz.gpkg
+ANCASH,ANCASH,HUARAZ,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_huaraz_simplified.gpkg
+ANCASH,ANCASH,HUARI,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_huari.gpkg
+ANCASH,ANCASH,HUARI,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_huari_simplified.gpkg
+ANCASH,ANCASH,HUARMEY,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_huarmey.gpkg
+ANCASH,ANCASH,HUARMEY,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_huarmey_simplified.gpkg
+ANCASH,ANCASH,HUAYLAS,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_huaylas.gpkg
+ANCASH,ANCASH,HUAYLAS,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_huaylas_simplified.gpkg
+ANCASH,ANCASH,MARISCAL LUZURIAGA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_mariscal_luzuriaga.gpkg
+ANCASH,ANCASH,MARISCAL LUZURIAGA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_mariscal_luzuriaga_simplified.gpkg
+ANCASH,ANCASH,OCROS,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_ocros.gpkg
+ANCASH,ANCASH,OCROS,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_ocros_simplified.gpkg
+ANCASH,ANCASH,PALLASCA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_pallasca.gpkg
+ANCASH,ANCASH,PALLASCA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_pallasca_simplified.gpkg
+ANCASH,ANCASH,POMABAMBA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_pomabamba.gpkg
+ANCASH,ANCASH,POMABAMBA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_pomabamba_simplified.gpkg
+ANCASH,ANCASH,RECUAY,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_recuay.gpkg
+ANCASH,ANCASH,RECUAY,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_recuay_simplified.gpkg
+ANCASH,ANCASH,SANTA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_santa.gpkg
+ANCASH,ANCASH,SANTA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_santa_simplified.gpkg
+ANCASH,ANCASH,SIHUAS,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_sihuas.gpkg
+ANCASH,ANCASH,SIHUAS,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_sihuas_simplified.gpkg
+ANCASH,ANCASH,YUNGAY,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_yungay.gpkg
+ANCASH,ANCASH,YUNGAY,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ancash_yungay_simplified.gpkg
+APURIMAC,APURIMAC,ABANCAY,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/apurimac_abancay.gpkg
+APURIMAC,APURIMAC,ABANCAY,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/apurimac_abancay_simplified.gpkg
+APURIMAC,APURIMAC,ANDAHUAYLAS,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/apurimac_andahuaylas.gpkg
+APURIMAC,APURIMAC,ANDAHUAYLAS,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/apurimac_andahuaylas_simplified.gpkg
+APURIMAC,APURIMAC,ANTABAMBA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/apurimac_antabamba.gpkg
+APURIMAC,APURIMAC,ANTABAMBA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/apurimac_antabamba_simplified.gpkg
+APURIMAC,APURIMAC,AYMARAES,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/apurimac_aymaraes.gpkg
+APURIMAC,APURIMAC,AYMARAES,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/apurimac_aymaraes_simplified.gpkg
+APURIMAC,APURIMAC,CHINCHEROS,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/apurimac_chincheros.gpkg
+APURIMAC,APURIMAC,CHINCHEROS,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/apurimac_chincheros_simplified.gpkg
+APURIMAC,APURIMAC,COTABAMBAS,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/apurimac_cotabambas.gpkg
+APURIMAC,APURIMAC,COTABAMBAS,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/apurimac_cotabambas_simplified.gpkg
+APURIMAC,APURIMAC,GRAU,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/apurimac_grau.gpkg
+APURIMAC,APURIMAC,GRAU,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/apurimac_grau_simplified.gpkg
+AREQUIPA,AREQUIPA,AREQUIPA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/arequipa_arequipa.gpkg
+AREQUIPA,AREQUIPA,AREQUIPA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/arequipa_arequipa_simplified.gpkg
+AREQUIPA,AREQUIPA,CAMANA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/arequipa_camana.gpkg
+AREQUIPA,AREQUIPA,CAMANA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/arequipa_camana_simplified.gpkg
+AREQUIPA,AREQUIPA,CARAVELI,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/arequipa_caraveli.gpkg
+AREQUIPA,AREQUIPA,CARAVELI,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/arequipa_caraveli_simplified.gpkg
+AREQUIPA,AREQUIPA,CASTILLA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/arequipa_castilla.gpkg
+AREQUIPA,AREQUIPA,CASTILLA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/arequipa_castilla_simplified.gpkg
+AREQUIPA,AREQUIPA,CAYLLOMA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/arequipa_caylloma.gpkg
+AREQUIPA,AREQUIPA,CAYLLOMA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/arequipa_caylloma_simplified.gpkg
+AREQUIPA,AREQUIPA,CONDESUYOS,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/arequipa_condesuyos.gpkg
+AREQUIPA,AREQUIPA,CONDESUYOS,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/arequipa_condesuyos_simplified.gpkg
+AREQUIPA,AREQUIPA,ISLAY,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/arequipa_islay.gpkg
+AREQUIPA,AREQUIPA,ISLAY,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/arequipa_islay_simplified.gpkg
+AREQUIPA,AREQUIPA,LA UNION,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/arequipa_la_union.gpkg
+AREQUIPA,AREQUIPA,LA UNION,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/arequipa_la_union_simplified.gpkg
+AYACUCHO,AYACUCHO,CANGALLO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ayacucho_cangallo.gpkg
+AYACUCHO,AYACUCHO,CANGALLO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ayacucho_cangallo_simplified.gpkg
+AYACUCHO,AYACUCHO,HUAMANGA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ayacucho_huamanga.gpkg
+AYACUCHO,AYACUCHO,HUAMANGA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ayacucho_huamanga_simplified.gpkg
+AYACUCHO,AYACUCHO,HUANCA SANCOS,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ayacucho_huanca_sancos.gpkg
+AYACUCHO,AYACUCHO,HUANCA SANCOS,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ayacucho_huanca_sancos_simplified.gpkg
+AYACUCHO,AYACUCHO,HUANTA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ayacucho_huanta.gpkg
+AYACUCHO,AYACUCHO,HUANTA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ayacucho_huanta_simplified.gpkg
+AYACUCHO,AYACUCHO,LA MAR,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ayacucho_la_mar.gpkg
+AYACUCHO,AYACUCHO,LA MAR,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ayacucho_la_mar_simplified.gpkg
+AYACUCHO,AYACUCHO,LUCANAS,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ayacucho_lucanas.gpkg
+AYACUCHO,AYACUCHO,LUCANAS,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ayacucho_lucanas_simplified.gpkg
+AYACUCHO,AYACUCHO,PARINACOCHAS,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ayacucho_parinacochas.gpkg
+AYACUCHO,AYACUCHO,PARINACOCHAS,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ayacucho_parinacochas_simplified.gpkg
+AYACUCHO,AYACUCHO,PAUCAR DEL SARA SARA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ayacucho_paucar_del_sara_sara.gpkg
+AYACUCHO,AYACUCHO,PAUCAR DEL SARA SARA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ayacucho_paucar_del_sara_sara_simplified.gpkg
+AYACUCHO,AYACUCHO,SUCRE,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ayacucho_sucre.gpkg
+AYACUCHO,AYACUCHO,SUCRE,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ayacucho_sucre_simplified.gpkg
+AYACUCHO,AYACUCHO,VICTOR FAJARDO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ayacucho_victor_fajardo.gpkg
+AYACUCHO,AYACUCHO,VICTOR FAJARDO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ayacucho_victor_fajardo_simplified.gpkg
+AYACUCHO,AYACUCHO,VILCAS HUAMAN,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ayacucho_vilcas_huaman.gpkg
+AYACUCHO,AYACUCHO,VILCAS HUAMAN,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ayacucho_vilcas_huaman_simplified.gpkg
+CAJAMARCA,CAJAMARCA,CAJABAMBA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cajamarca_cajabamba.gpkg
+CAJAMARCA,CAJAMARCA,CAJABAMBA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cajamarca_cajabamba_simplified.gpkg
+CAJAMARCA,CAJAMARCA,CAJAMARCA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cajamarca_cajamarca.gpkg
+CAJAMARCA,CAJAMARCA,CAJAMARCA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cajamarca_cajamarca_simplified.gpkg
+CAJAMARCA,CAJAMARCA,CELENDIN,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cajamarca_celendin.gpkg
+CAJAMARCA,CAJAMARCA,CELENDIN,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cajamarca_celendin_simplified.gpkg
+CAJAMARCA,CAJAMARCA,CHOTA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cajamarca_chota.gpkg
+CAJAMARCA,CAJAMARCA,CHOTA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cajamarca_chota_simplified.gpkg
+CAJAMARCA,CAJAMARCA,CONTUMAZA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cajamarca_contumaza.gpkg
+CAJAMARCA,CAJAMARCA,CONTUMAZA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cajamarca_contumaza_simplified.gpkg
+CAJAMARCA,CAJAMARCA,CUTERVO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cajamarca_cutervo.gpkg
+CAJAMARCA,CAJAMARCA,CUTERVO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cajamarca_cutervo_simplified.gpkg
+CAJAMARCA,CAJAMARCA,HUALGAYOC,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cajamarca_hualgayoc.gpkg
+CAJAMARCA,CAJAMARCA,HUALGAYOC,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cajamarca_hualgayoc_simplified.gpkg
+CAJAMARCA,CAJAMARCA,JAEN,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cajamarca_jaen.gpkg
+CAJAMARCA,CAJAMARCA,JAEN,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cajamarca_jaen_simplified.gpkg
+CAJAMARCA,CAJAMARCA,SAN IGNACIO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cajamarca_san_ignacio.gpkg
+CAJAMARCA,CAJAMARCA,SAN IGNACIO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cajamarca_san_ignacio_simplified.gpkg
+CAJAMARCA,CAJAMARCA,SAN MARCOS,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cajamarca_san_marcos.gpkg
+CAJAMARCA,CAJAMARCA,SAN MARCOS,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cajamarca_san_marcos_simplified.gpkg
+CAJAMARCA,CAJAMARCA,SAN MIGUEL,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cajamarca_san_miguel.gpkg
+CAJAMARCA,CAJAMARCA,SAN MIGUEL,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cajamarca_san_miguel_simplified.gpkg
+CAJAMARCA,CAJAMARCA,SAN PABLO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cajamarca_san_pablo.gpkg
+CAJAMARCA,CAJAMARCA,SAN PABLO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cajamarca_san_pablo_simplified.gpkg
+CAJAMARCA,CAJAMARCA,SANTA CRUZ,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cajamarca_santa_cruz.gpkg
+CAJAMARCA,CAJAMARCA,SANTA CRUZ,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cajamarca_santa_cruz_simplified.gpkg
+CALLAO,CALLAO,CALLAO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/callao_callao.gpkg
+CALLAO,CALLAO,CALLAO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/callao_callao_simplified.gpkg
+CUSCO,CUSCO,ACOMAYO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cusco_acomayo.gpkg
+CUSCO,CUSCO,ACOMAYO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cusco_acomayo_simplified.gpkg
+CUSCO,CUSCO,ANTA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cusco_anta.gpkg
+CUSCO,CUSCO,ANTA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cusco_anta_simplified.gpkg
+CUSCO,CUSCO,CALCA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cusco_calca.gpkg
+CUSCO,CUSCO,CALCA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cusco_calca_simplified.gpkg
+CUSCO,CUSCO,CANAS,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cusco_canas.gpkg
+CUSCO,CUSCO,CANAS,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cusco_canas_simplified.gpkg
+CUSCO,CUSCO,CANCHIS,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cusco_canchis.gpkg
+CUSCO,CUSCO,CANCHIS,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cusco_canchis_simplified.gpkg
+CUSCO,CUSCO,CHUMBIVILCAS,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cusco_chumbivilcas.gpkg
+CUSCO,CUSCO,CHUMBIVILCAS,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cusco_chumbivilcas_simplified.gpkg
+CUSCO,CUSCO,CUSCO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cusco_cusco.gpkg
+CUSCO,CUSCO,CUSCO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cusco_cusco_simplified.gpkg
+CUSCO,CUSCO,ESPINAR,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cusco_espinar.gpkg
+CUSCO,CUSCO,ESPINAR,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cusco_espinar_simplified.gpkg
+CUSCO,CUSCO,LA CONVENCION,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cusco_la_convencion.gpkg
+CUSCO,CUSCO,LA CONVENCION,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cusco_la_convencion_simplified.gpkg
+CUSCO,CUSCO,PARURO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cusco_paruro.gpkg
+CUSCO,CUSCO,PARURO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cusco_paruro_simplified.gpkg
+CUSCO,CUSCO,PAUCARTAMBO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cusco_paucartambo.gpkg
+CUSCO,CUSCO,PAUCARTAMBO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cusco_paucartambo_simplified.gpkg
+CUSCO,CUSCO,QUISPICANCHI,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cusco_quispicanchi.gpkg
+CUSCO,CUSCO,QUISPICANCHI,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cusco_quispicanchi_simplified.gpkg
+CUSCO,CUSCO,URUBAMBA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cusco_urubamba.gpkg
+CUSCO,CUSCO,URUBAMBA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/cusco_urubamba_simplified.gpkg
+HUANCAVELICA,HUANCAVELICA,ACOBAMBA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huancavelica_acobamba.gpkg
+HUANCAVELICA,HUANCAVELICA,ACOBAMBA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huancavelica_acobamba_simplified.gpkg
+HUANCAVELICA,HUANCAVELICA,ANGARAES,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huancavelica_angaraes.gpkg
+HUANCAVELICA,HUANCAVELICA,ANGARAES,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huancavelica_angaraes_simplified.gpkg
+HUANCAVELICA,HUANCAVELICA,CASTROVIRREYNA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huancavelica_castrovirreyna.gpkg
+HUANCAVELICA,HUANCAVELICA,CASTROVIRREYNA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huancavelica_castrovirreyna_simplified.gpkg
+HUANCAVELICA,HUANCAVELICA,CHURCAMPA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huancavelica_churcampa.gpkg
+HUANCAVELICA,HUANCAVELICA,CHURCAMPA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huancavelica_churcampa_simplified.gpkg
+HUANCAVELICA,HUANCAVELICA,HUANCAVELICA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huancavelica_huancavelica.gpkg
+HUANCAVELICA,HUANCAVELICA,HUANCAVELICA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huancavelica_huancavelica_simplified.gpkg
+HUANCAVELICA,HUANCAVELICA,HUAYTARA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huancavelica_huaytara.gpkg
+HUANCAVELICA,HUANCAVELICA,HUAYTARA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huancavelica_huaytara_simplified.gpkg
+HUANCAVELICA,HUANCAVELICA,TAYACAJA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huancavelica_tayacaja.gpkg
+HUANCAVELICA,HUANCAVELICA,TAYACAJA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huancavelica_tayacaja_simplified.gpkg
+HUANUCO,HUANUCO,AMBO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huanuco_ambo.gpkg
+HUANUCO,HUANUCO,AMBO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huanuco_ambo_simplified.gpkg
+HUANUCO,HUANUCO,DOS DE MAYO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huanuco_dos_de_mayo.gpkg
+HUANUCO,HUANUCO,DOS DE MAYO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huanuco_dos_de_mayo_simplified.gpkg
+HUANUCO,HUANUCO,HUACAYBAMBA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huanuco_huacaybamba.gpkg
+HUANUCO,HUANUCO,HUACAYBAMBA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huanuco_huacaybamba_simplified.gpkg
+HUANUCO,HUANUCO,HUAMALIES,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huanuco_huamalies.gpkg
+HUANUCO,HUANUCO,HUAMALIES,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huanuco_huamalies_simplified.gpkg
+HUANUCO,HUANUCO,HUANUCO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huanuco_huanuco.gpkg
+HUANUCO,HUANUCO,HUANUCO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huanuco_huanuco_simplified.gpkg
+HUANUCO,HUANUCO,LAURICOCHA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huanuco_lauricocha.gpkg
+HUANUCO,HUANUCO,LAURICOCHA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huanuco_lauricocha_simplified.gpkg
+HUANUCO,HUANUCO,LEONCIO PRADO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huanuco_leoncio_prado.gpkg
+HUANUCO,HUANUCO,LEONCIO PRADO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huanuco_leoncio_prado_simplified.gpkg
+HUANUCO,HUANUCO,MARAÑON,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huanuco_marañon.gpkg
+HUANUCO,HUANUCO,MARAÑON,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huanuco_marañon_simplified.gpkg
+HUANUCO,HUANUCO,PACHITEA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huanuco_pachitea.gpkg
+HUANUCO,HUANUCO,PACHITEA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huanuco_pachitea_simplified.gpkg
+HUANUCO,HUANUCO,PUERTO INCA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huanuco_puerto_inca.gpkg
+HUANUCO,HUANUCO,PUERTO INCA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huanuco_puerto_inca_simplified.gpkg
+HUANUCO,HUANUCO,YAROWILCA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huanuco_yarowilca.gpkg
+HUANUCO,HUANUCO,YAROWILCA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/huanuco_yarowilca_simplified.gpkg
+ICA,ICA,CHINCHA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ica_chincha.gpkg
+ICA,ICA,CHINCHA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ica_chincha_simplified.gpkg
+ICA,ICA,ICA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ica_ica.gpkg
+ICA,ICA,ICA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ica_ica_simplified.gpkg
+ICA,ICA,NASCA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ica_nasca.gpkg
+ICA,ICA,NASCA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ica_nasca_simplified.gpkg
+ICA,ICA,PALPA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ica_palpa.gpkg
+ICA,ICA,PALPA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ica_palpa_simplified.gpkg
+ICA,ICA,PISCO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ica_pisco.gpkg
+ICA,ICA,PISCO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ica_pisco_simplified.gpkg
+JUNIN,JUNIN,CHANCHAMAYO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/junin_chanchamayo.gpkg
+JUNIN,JUNIN,CHANCHAMAYO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/junin_chanchamayo_simplified.gpkg
+JUNIN,JUNIN,CHUPACA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/junin_chupaca.gpkg
+JUNIN,JUNIN,CHUPACA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/junin_chupaca_simplified.gpkg
+JUNIN,JUNIN,CONCEPCION,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/junin_concepcion.gpkg
+JUNIN,JUNIN,CONCEPCION,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/junin_concepcion_simplified.gpkg
+JUNIN,JUNIN,HUANCAYO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/junin_huancayo.gpkg
+JUNIN,JUNIN,HUANCAYO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/junin_huancayo_simplified.gpkg
+JUNIN,JUNIN,JAUJA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/junin_jauja.gpkg
+JUNIN,JUNIN,JAUJA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/junin_jauja_simplified.gpkg
+JUNIN,JUNIN,JUNIN,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/junin_junin.gpkg
+JUNIN,JUNIN,JUNIN,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/junin_junin_simplified.gpkg
+JUNIN,JUNIN,SATIPO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/junin_satipo.gpkg
+JUNIN,JUNIN,SATIPO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/junin_satipo_simplified.gpkg
+JUNIN,JUNIN,TARMA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/junin_tarma.gpkg
+JUNIN,JUNIN,TARMA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/junin_tarma_simplified.gpkg
+JUNIN,JUNIN,YAULI,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/junin_yauli.gpkg
+JUNIN,JUNIN,YAULI,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/junin_yauli_simplified.gpkg
+LA LIBERTAD,LA LIBERTAD,ASCOPE,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/la_libertad_ascope.gpkg
+LA LIBERTAD,LA LIBERTAD,ASCOPE,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/la_libertad_ascope_simplified.gpkg
+LA LIBERTAD,LA LIBERTAD,BOLIVAR,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/la_libertad_bolivar.gpkg
+LA LIBERTAD,LA LIBERTAD,BOLIVAR,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/la_libertad_bolivar_simplified.gpkg
+LA LIBERTAD,LA LIBERTAD,CHEPEN,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/la_libertad_chepen.gpkg
+LA LIBERTAD,LA LIBERTAD,CHEPEN,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/la_libertad_chepen_simplified.gpkg
+LA LIBERTAD,LA LIBERTAD,GRAN CHIMU,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/la_libertad_gran_chimu.gpkg
+LA LIBERTAD,LA LIBERTAD,GRAN CHIMU,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/la_libertad_gran_chimu_simplified.gpkg
+LA LIBERTAD,LA LIBERTAD,JULCAN,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/la_libertad_julcan.gpkg
+LA LIBERTAD,LA LIBERTAD,JULCAN,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/la_libertad_julcan_simplified.gpkg
+LA LIBERTAD,LA LIBERTAD,OTUZCO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/la_libertad_otuzco.gpkg
+LA LIBERTAD,LA LIBERTAD,OTUZCO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/la_libertad_otuzco_simplified.gpkg
+LA LIBERTAD,LA LIBERTAD,PACASMAYO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/la_libertad_pacasmayo.gpkg
+LA LIBERTAD,LA LIBERTAD,PACASMAYO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/la_libertad_pacasmayo_simplified.gpkg
+LA LIBERTAD,LA LIBERTAD,PATAZ,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/la_libertad_pataz.gpkg
+LA LIBERTAD,LA LIBERTAD,PATAZ,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/la_libertad_pataz_simplified.gpkg
+LA LIBERTAD,LA LIBERTAD,SANCHEZ CARRION,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/la_libertad_sanchez_carrion.gpkg
+LA LIBERTAD,LA LIBERTAD,SANCHEZ CARRION,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/la_libertad_sanchez_carrion_simplified.gpkg
+LA LIBERTAD,LA LIBERTAD,SANTIAGO DE CHUCO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/la_libertad_santiago_de_chuco.gpkg
+LA LIBERTAD,LA LIBERTAD,SANTIAGO DE CHUCO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/la_libertad_santiago_de_chuco_simplified.gpkg
+LA LIBERTAD,LA LIBERTAD,TRUJILLO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/la_libertad_trujillo.gpkg
+LA LIBERTAD,LA LIBERTAD,TRUJILLO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/la_libertad_trujillo_simplified.gpkg
+LA LIBERTAD,LA LIBERTAD,VIRU,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/la_libertad_viru.gpkg
+LA LIBERTAD,LA LIBERTAD,VIRU,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/la_libertad_viru_simplified.gpkg
+LAMBAYEQUE,LAMBAYEQUE,CHICLAYO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/lambayeque_chiclayo.gpkg
+LAMBAYEQUE,LAMBAYEQUE,CHICLAYO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/lambayeque_chiclayo_simplified.gpkg
+LAMBAYEQUE,LAMBAYEQUE,FERREÑAFE,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/lambayeque_ferreñafe.gpkg
+LAMBAYEQUE,LAMBAYEQUE,FERREÑAFE,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/lambayeque_ferreñafe_simplified.gpkg
+LAMBAYEQUE,LAMBAYEQUE,LAMBAYEQUE,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/lambayeque_lambayeque.gpkg
+LAMBAYEQUE,LAMBAYEQUE,LAMBAYEQUE,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/lambayeque_lambayeque_simplified.gpkg
+LIMA,LIMA,BARRANCA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/lima_barranca.gpkg
+LIMA,LIMA,BARRANCA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/lima_barranca_simplified.gpkg
+LIMA,LIMA,CAJATAMBO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/lima_cajatambo.gpkg
+LIMA,LIMA,CAJATAMBO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/lima_cajatambo_simplified.gpkg
+LIMA,LIMA,CANTA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/lima_canta.gpkg
+LIMA,LIMA,CANTA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/lima_canta_simplified.gpkg
+LIMA,LIMA,CAÑETE,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/lima_cañete.gpkg
+LIMA,LIMA,CAÑETE,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/lima_cañete_simplified.gpkg
+LIMA,LIMA,HUARAL,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/lima_huaral.gpkg
+LIMA,LIMA,HUARAL,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/lima_huaral_simplified.gpkg
+LIMA,LIMA,HUAROCHIRI,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/lima_huarochiri.gpkg
+LIMA,LIMA,HUAROCHIRI,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/lima_huarochiri_simplified.gpkg
+LIMA,LIMA,HUAURA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/lima_huaura.gpkg
+LIMA,LIMA,HUAURA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/lima_huaura_simplified.gpkg
+LIMA,LIMA,LIMA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/lima_lima.gpkg
+LIMA,LIMA,LIMA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/lima_lima_simplified.gpkg
+LIMA,LIMA,OYON,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/lima_oyon.gpkg
+LIMA,LIMA,OYON,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/lima_oyon_simplified.gpkg
+LIMA,LIMA,YAUYOS,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/lima_yauyos.gpkg
+LIMA,LIMA,YAUYOS,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/lima_yauyos_simplified.gpkg
+LORETO,LORETO,ALTO AMAZONAS,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/loreto_alto_amazonas.gpkg
+LORETO,LORETO,ALTO AMAZONAS,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/loreto_alto_amazonas_simplified.gpkg
+LORETO,LORETO,DATEM DEL MARAÑON,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/loreto_datem_del_marañon.gpkg
+LORETO,LORETO,DATEM DEL MARAÑON,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/loreto_datem_del_marañon_simplified.gpkg
+LORETO,LORETO,LORETO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/loreto_loreto.gpkg
+LORETO,LORETO,LORETO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/loreto_loreto_simplified.gpkg
+LORETO,LORETO,MARISCAL RAMON CASTILLA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/loreto_mariscal_ramon_castilla.gpkg
+LORETO,LORETO,MARISCAL RAMON CASTILLA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/loreto_mariscal_ramon_castilla_simplified.gpkg
+LORETO,LORETO,MAYNAS,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/loreto_maynas.gpkg
+LORETO,LORETO,MAYNAS,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/loreto_maynas_simplified.gpkg
+LORETO,LORETO,PUTUMAYO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/loreto_putumayo.gpkg
+LORETO,LORETO,PUTUMAYO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/loreto_putumayo_simplified.gpkg
+LORETO,LORETO,REQUENA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/loreto_requena.gpkg
+LORETO,LORETO,REQUENA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/loreto_requena_simplified.gpkg
+LORETO,LORETO,UCAYALI,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/loreto_ucayali.gpkg
+LORETO,LORETO,UCAYALI,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/loreto_ucayali_simplified.gpkg
+MADRE DE DIOS,MADRE DE DIOS,MANU,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/madre_de_dios_manu.gpkg
+MADRE DE DIOS,MADRE DE DIOS,MANU,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/madre_de_dios_manu_simplified.gpkg
+MADRE DE DIOS,MADRE DE DIOS,TAHUAMANU,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/madre_de_dios_tahuamanu.gpkg
+MADRE DE DIOS,MADRE DE DIOS,TAHUAMANU,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/madre_de_dios_tahuamanu_simplified.gpkg
+MADRE DE DIOS,MADRE DE DIOS,TAMBOPATA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/madre_de_dios_tambopata.gpkg
+MADRE DE DIOS,MADRE DE DIOS,TAMBOPATA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/madre_de_dios_tambopata_simplified.gpkg
+MOQUEGUA,MOQUEGUA,GENERAL SANCHEZ CERRO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/moquegua_general_sanchez_cerro.gpkg
+MOQUEGUA,MOQUEGUA,GENERAL SANCHEZ CERRO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/moquegua_general_sanchez_cerro_simplified.gpkg
+MOQUEGUA,MOQUEGUA,ILO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/moquegua_ilo.gpkg
+MOQUEGUA,MOQUEGUA,ILO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/moquegua_ilo_simplified.gpkg
+MOQUEGUA,MOQUEGUA,MARISCAL NIETO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/moquegua_mariscal_nieto.gpkg
+MOQUEGUA,MOQUEGUA,MARISCAL NIETO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/moquegua_mariscal_nieto_simplified.gpkg
+PASCO,PASCO,DANIEL ALCIDES CARRION,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/pasco_daniel_alcides_carrion.gpkg
+PASCO,PASCO,DANIEL ALCIDES CARRION,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/pasco_daniel_alcides_carrion_simplified.gpkg
+PASCO,PASCO,OXAPAMPA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/pasco_oxapampa.gpkg
+PASCO,PASCO,OXAPAMPA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/pasco_oxapampa_simplified.gpkg
+PASCO,PASCO,PASCO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/pasco_pasco.gpkg
+PASCO,PASCO,PASCO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/pasco_pasco_simplified.gpkg
+PIURA,PIURA,AYABACA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/piura_ayabaca.gpkg
+PIURA,PIURA,AYABACA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/piura_ayabaca_simplified.gpkg
+PIURA,PIURA,HUANCABAMBA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/piura_huancabamba.gpkg
+PIURA,PIURA,HUANCABAMBA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/piura_huancabamba_simplified.gpkg
+PIURA,PIURA,MORROPON,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/piura_morropon.gpkg
+PIURA,PIURA,MORROPON,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/piura_morropon_simplified.gpkg
+PIURA,PIURA,PAITA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/piura_paita.gpkg
+PIURA,PIURA,PAITA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/piura_paita_simplified.gpkg
+PIURA,PIURA,PIURA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/piura_piura.gpkg
+PIURA,PIURA,PIURA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/piura_piura_simplified.gpkg
+PIURA,PIURA,SECHURA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/piura_sechura.gpkg
+PIURA,PIURA,SECHURA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/piura_sechura_simplified.gpkg
+PIURA,PIURA,SULLANA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/piura_sullana.gpkg
+PIURA,PIURA,SULLANA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/piura_sullana_simplified.gpkg
+PIURA,PIURA,TALARA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/piura_talara.gpkg
+PIURA,PIURA,TALARA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/piura_talara_simplified.gpkg
+PUNO,PUNO,AZANGARO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/puno_azangaro.gpkg
+PUNO,PUNO,AZANGARO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/puno_azangaro_simplified.gpkg
+PUNO,PUNO,CARABAYA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/puno_carabaya.gpkg
+PUNO,PUNO,CARABAYA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/puno_carabaya_simplified.gpkg
+PUNO,PUNO,CHUCUITO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/puno_chucuito.gpkg
+PUNO,PUNO,CHUCUITO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/puno_chucuito_simplified.gpkg
+PUNO,PUNO,EL COLLAO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/puno_el_collao.gpkg
+PUNO,PUNO,EL COLLAO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/puno_el_collao_simplified.gpkg
+PUNO,PUNO,HUANCANE,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/puno_huancane.gpkg
+PUNO,PUNO,HUANCANE,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/puno_huancane_simplified.gpkg
+PUNO,PUNO,LAMPA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/puno_lampa.gpkg
+PUNO,PUNO,LAMPA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/puno_lampa_simplified.gpkg
+PUNO,PUNO,MELGAR,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/puno_melgar.gpkg
+PUNO,PUNO,MELGAR,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/puno_melgar_simplified.gpkg
+PUNO,PUNO,MOHO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/puno_moho.gpkg
+PUNO,PUNO,MOHO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/puno_moho_simplified.gpkg
+PUNO,PUNO,PUNO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/puno_puno.gpkg
+PUNO,PUNO,PUNO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/puno_puno_simplified.gpkg
+PUNO,PUNO,SAN ANTONIO DE PUTINA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/puno_san_antonio_de_putina.gpkg
+PUNO,PUNO,SAN ANTONIO DE PUTINA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/puno_san_antonio_de_putina_simplified.gpkg
+PUNO,PUNO,SAN ROMAN,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/puno_san_roman.gpkg
+PUNO,PUNO,SAN ROMAN,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/puno_san_roman_simplified.gpkg
+PUNO,PUNO,SANDIA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/puno_sandia.gpkg
+PUNO,PUNO,SANDIA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/puno_sandia_simplified.gpkg
+PUNO,PUNO,YUNGUYO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/puno_yunguyo.gpkg
+PUNO,PUNO,YUNGUYO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/puno_yunguyo_simplified.gpkg
+SAN MARTIN,SAN MARTIN,BELLAVISTA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/san_martin_bellavista.gpkg
+SAN MARTIN,SAN MARTIN,BELLAVISTA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/san_martin_bellavista_simplified.gpkg
+SAN MARTIN,SAN MARTIN,EL DORADO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/san_martin_el_dorado.gpkg
+SAN MARTIN,SAN MARTIN,EL DORADO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/san_martin_el_dorado_simplified.gpkg
+SAN MARTIN,SAN MARTIN,HUALLAGA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/san_martin_huallaga.gpkg
+SAN MARTIN,SAN MARTIN,HUALLAGA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/san_martin_huallaga_simplified.gpkg
+SAN MARTIN,SAN MARTIN,LAMAS,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/san_martin_lamas.gpkg
+SAN MARTIN,SAN MARTIN,LAMAS,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/san_martin_lamas_simplified.gpkg
+SAN MARTIN,SAN MARTIN,MARISCAL CACERES,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/san_martin_mariscal_caceres.gpkg
+SAN MARTIN,SAN MARTIN,MARISCAL CACERES,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/san_martin_mariscal_caceres_simplified.gpkg
+SAN MARTIN,SAN MARTIN,MOYOBAMBA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/san_martin_moyobamba.gpkg
+SAN MARTIN,SAN MARTIN,MOYOBAMBA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/san_martin_moyobamba_simplified.gpkg
+SAN MARTIN,SAN MARTIN,PICOTA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/san_martin_picota.gpkg
+SAN MARTIN,SAN MARTIN,PICOTA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/san_martin_picota_simplified.gpkg
+SAN MARTIN,SAN MARTIN,RIOJA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/san_martin_rioja.gpkg
+SAN MARTIN,SAN MARTIN,RIOJA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/san_martin_rioja_simplified.gpkg
+SAN MARTIN,SAN MARTIN,SAN MARTIN,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/san_martin_san_martin.gpkg
+SAN MARTIN,SAN MARTIN,SAN MARTIN,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/san_martin_san_martin_simplified.gpkg
+SAN MARTIN,SAN MARTIN,TOCACHE,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/san_martin_tocache.gpkg
+SAN MARTIN,SAN MARTIN,TOCACHE,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/san_martin_tocache_simplified.gpkg
+TACNA,TACNA,CANDARAVE,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/tacna_candarave.gpkg
+TACNA,TACNA,CANDARAVE,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/tacna_candarave_simplified.gpkg
+TACNA,TACNA,JORGE BASADRE,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/tacna_jorge_basadre.gpkg
+TACNA,TACNA,JORGE BASADRE,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/tacna_jorge_basadre_simplified.gpkg
+TACNA,TACNA,TACNA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/tacna_tacna.gpkg
+TACNA,TACNA,TACNA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/tacna_tacna_simplified.gpkg
+TACNA,TACNA,TARATA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/tacna_tarata.gpkg
+TACNA,TACNA,TARATA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/tacna_tarata_simplified.gpkg
+TUMBES,TUMBES,CONTRALMIRANTE VILLAR,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/tumbes_contralmirante_villar.gpkg
+TUMBES,TUMBES,CONTRALMIRANTE VILLAR,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/tumbes_contralmirante_villar_simplified.gpkg
+TUMBES,TUMBES,TUMBES,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/tumbes_tumbes.gpkg
+TUMBES,TUMBES,TUMBES,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/tumbes_tumbes_simplified.gpkg
+TUMBES,TUMBES,ZARUMILLA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/tumbes_zarumilla.gpkg
+TUMBES,TUMBES,ZARUMILLA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/tumbes_zarumilla_simplified.gpkg
+UCAYALI,UCAYALI,ATALAYA,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ucayali_atalaya.gpkg
+UCAYALI,UCAYALI,ATALAYA,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ucayali_atalaya_simplified.gpkg
+UCAYALI,UCAYALI,CORONEL PORTILLO,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ucayali_coronel_portillo.gpkg
+UCAYALI,UCAYALI,CORONEL PORTILLO,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ucayali_coronel_portillo_simplified.gpkg
+UCAYALI,UCAYALI,PADRE ABAD,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ucayali_padre_abad.gpkg
+UCAYALI,UCAYALI,PADRE ABAD,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ucayali_padre_abad_simplified.gpkg
+UCAYALI,UCAYALI,PURUS,complete,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ucayali_purus.gpkg
+UCAYALI,UCAYALI,PURUS,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/geo/prov/ucayali_purus_simplified.gpkg
+nill,NA,nill,complete,https://github.com/PaulESantos/perugeopkg/raw/master/nacional/peru.gpkg
+nill,NA,nill,simplified,https://github.com/PaulESantos/perugeopkg/raw/master/nacional/peru_simplified.gpkg
