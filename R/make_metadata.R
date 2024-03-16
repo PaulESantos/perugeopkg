@@ -8,6 +8,9 @@
 #'
 #' @export
 #'
+#'
+#'
+#'
 generate_metadata <- function(directory) {
   # Obtener lista de archivos en el directorio especificado
   files <- list.files(directory, recursive = TRUE, full.names = TRUE)
