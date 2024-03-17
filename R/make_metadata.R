@@ -1,75 +1,78 @@
-#' Generar metadatos para descargar datos geográficos del Perú
+#' Generate metadata for downloading geographic data of Peru
 #'
-#' Esta función lee los archivos gpkg contenidos en una carpeta y genera la metadata necesaria
-#' para descargar los datos de la información geográfica del Perú, incluyendo departamentos, provincias y distritos.
+#' This function reads gpkg files contained in a folder and generates the necessary metadata
+#' for downloading geographic information data of Peru, including departments, provinces, and districts.
 #'
-#' @param directory La ruta del directorio que contiene los archivos gpkg.
-#' @return Un dataframe de metadatos que especifica la ubicación de los archivos gpkg y otra información relevante.
+#' @param file The path to the gpkg file.
+#' @return A tibble with metadata specifying the location of the gpkg files and other relevant information.
 #'
 #' @export
-#'
-#'
-#'
-#'
-generate_metadata <- function(directory) {
-  # Obtener lista de archivos en el directorio especificado
-  files <- list.files(directory, recursive = TRUE, full.names = TRUE)
+create_metadata <- function(file) {
+  dff <- sf::read_sf(file)
+  dfnames <- names(dff)
 
-  # Crear la metadata de los departamentos
-  departamentos <- grep("/dep", files, value = TRUE)
-  make_metadata_dep <- function(file) {
-    dff <- sf::read_sf(file)
-    dep <- unique(dff$departamento)
-    if(grepl("simplified", file)) {
-      tipo <- "simplified"
-    } else {
-      tipo <- "complete"
+  # Get column names "departamento" and "provincia" if they exist
+  if ("departamento" %in% dfnames & "provincia" %in% dfnames) {
+    if(nrow(dff) < 1874) {
+      dep <- unique(dff$departamento)
+
+      if(length(unique(dff$provincia)) > 1) {
+        prov <- NA_character_
+      } else if(length(unique(dff$provincia)) == 1) {
+        prov <- unique(dff$provincia)
+      }
+    } else if(nrow(dff) > 1800) {
+      dep <- NA_character_
+      prov <- NA_character_
     }
-    url <- "https://github.com/PaulESantos/perugeopkg/raw/master/"
-    tibble::tibble(dep_name = dep,
-                   type = tipo,
-                   download_path  = paste0(url, file))
-  }
-  dep_metadata <- purrr::map_dfr(departamentos, ~make_metadata_dep(.))
-
-  # Crear la metadata de las provincias
-  provincias <- grep("/prov", files, value = TRUE)
-  make_metadata_prov <- function(file) {
-    dff <- sf::read_sf(file)
+  } else if ("departamento" %in% dfnames & !"provincia" %in% dfnames) {
     dep <- unique(dff$departamento)
-    prov <- unique(dff$provincia)
-    if(grepl("simplified", file)) {
-      tipo <- "simplified"
-    } else {
-      tipo <- "complete"
+    prov <- NA_character_
+  } else if (!"departamento" %in% dfnames & "provincia" %in% dfnames) {
+    dep <- NA_character_
+    if(length(unique(dff$provincia)) > 1) {
+      prov <- NA_character_
+    } else if(length(unique(dff$provincia)) == 1) {
+      prov <- unique(dff$provincia)
     }
-    url <- "https://github.com/PaulESantos/perugeopkg/raw/master/"
-    tibble::tibble(dep_name = dep,
-                   prov_name = prov,
-                   type = tipo,
-                   download_path  = paste0(url, file))
+  } else if (!("departamento" %in% dfnames) & !("provincia" %in% dfnames)) {
+    dep <- NA_character_
+    prov <- NA_character_
   }
-  prov_metadata <- purrr::map_dfr(provincias, ~make_metadata_prov(.)) |>
-    tidyr::fill(dep_name, .direction = "down")
 
-  # Crear la metadata para los shapes nacionales
-  nacional <- tibble::tibble(
-    layer = c("PERU", "PERU"),
-    type = c("complete", "simplified"),
-    download_path = c("https://github.com/PaulESantos/perugeopkg/raw/master/nacional/peru.gpkg",
-                      "https://github.com/PaulESantos/perugeopkg/raw/master/nacional/peru_simplified.gpkg")
-  )
+  # Data level
+  if(grepl("dep_", file)) {
+    level <- "department"
+  } else if(grepl("prov_", file)){
+    level <- "province"
+  } else if(grepl("nan_", file)){
+    level <- "national"
+  }
 
-  # Combinar los archivos de metadata
-  metadata <- dplyr::bind_rows(dep_metadata, prov_metadata, nacional) |>
-    dplyr::relocate(prov_name, .after = "dep_name") |>
-    dplyr::mutate(prov_name = dplyr::if_else(is.na(prov_name), "nill", prov_name)) |>
-    dplyr::mutate(layer = dplyr::case_when(
-      !is.na(dep_name) ~ dep_name,
-      !is.na(prov_name) ~ prov_name,
-      TRUE ~ layer
-    )) |>
-    dplyr::relocate(layer)
+  # Data type
+  if(grepl("simplified", file)) {
+    tipo <- "simplified"
+  } else {
+    tipo <- "complete"
+  }
 
-  return(metadata)
+  # URL
+  url <- "https://github.com/PaulESantos/perugeopkg/raw/master/"
+
+  tibble::tibble(dep_name = dep,
+                 prov_name = prov,
+                 type = tipo,
+                 level = level,
+                 download_path = paste0(url, file))
 }
+
+
+# library(tidyverse)
+# library(sf)
+# files <- list.files("geo", recursive = TRUE, full.names = TRUE)
+# create_metadata(files[12])
+# metadata <- purrr::map_dfr(files,
+#                        ~create_metadata(.))
+# metadata <- readxl::read_excel("metadata_geoperu.xlsx")
+# metadata
+
