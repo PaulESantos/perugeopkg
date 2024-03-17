@@ -1,0 +1,41 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# perugeopkg
+
+This repository contains GeoPackage files (.gpkg) with geographic data
+of Peru. These files are intended to be used by the `geoperu` package
+for accessing spatial information about Peru (departments, provinces,
+districts, and natural service areas).
+
+## Data Structure
+
+The GeoPackage files are organized as follows:
+
+- *National*: Contains spatial data for all departments in Peru.
+
+- *Departments*: Contains spatial data for departments and their
+  respective provinces throughout Peru.
+
+- *Provinces*: Contains spatial data for all provinces and their
+  associated districts within each region of Peru.
+
+## Usage
+
+You can use these GeoPackage files in your projects by downloading them
+directly from this repository or by integrating them into your own
+packages or applications.
+
+## Contributing
+
+Contributions to this repository are welcome! If you would like to
+contribute, please feel free to open a pull request.
+
+## License
+
+The data in this repository is distributed under the [Creative Commons
+Attribution-ShareAlike 4.0 International
+License](https://creativecommons.org/licenses/by-sa/4.0/). You are free
+to share and adapt the data for any purpose, as long as you give
+appropriate credit and distribute any derivative works under the same
+license.
